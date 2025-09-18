@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "Dicono di noi"
     text: "Le vostre opinioni"
-    body: "Siamo orgogliosi del lavoro che facciamo e delle relazioni che costruiamo con i nostri clienti. Se hai avuto un'esperienza positiva con noi, lasciaci una recensione su Google! La tua opinione è fondamentale per aiutarci a migliorare e a crescere. Puoi farlo facilmente cliccando sul nostro link qui sotto: [https://share.google/CoNkPi06b8lfXy9tY](https://share.google/CoNkPi06b8lfXy9tY)"
+    body: "Siamo orgogliosi del lavoro che facciamo e delle relazioni che costruiamo con i nostri clienti. Se hai avuto un'esperienza positiva con noi, lasciaci una recensione su Google! La tua opinione è fondamentale per aiutarci a migliorare e a crescere. Puoi farlo facilmente cliccando sul nostro link qui sotto: [https://share.google/CoNkPi06b8lfXy9tY](https://share.google/CoNkPi06b8lfXy9tY) <br> <br> <br> <br> <br> <br> Vuoi passare in negozio? Vienici a trovare nelle nostre sedi! <br> Sede di Curtatone: Via Ferruccio Parri, 3/L, 46010 Curtatone MN  <br> Sede di Mantova: Via dei Mulini, 7, 46100 Mantova MN"
     section: about
 
   clients:
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contattaci"
-    text: "Scrivici su WhatsApp al numero xxxx oppure chiamaci al 123456789"
+    text: "Scrivici su WhatsApp o chiamaci al numero 3311366796 (sede di Curtatone) 3514900552 (sede di Mantova)"
     section: contact
     name: "Nome*"
     name-validation: "Per favore, inserisci il tuo nome."
@@ -423,7 +423,7 @@ es: &DEFAULT_ES
   about:
     title: "Dicono di noi"
     text: "Le vostre opinioni"
-    body: "Siamo orgogliosi del lavoro che facciamo e delle relazioni che costruiamo con i nostri clienti. Se hai avuto un'esperienza positiva con noi, lasciaci una recensione su Google! La tua opinione è fondamentale per aiutarci a migliorare e a crescere. Puoi farlo facilmente cliccando sul nostro link qui sotto: [https://share.google/CoNkPi06b8lfXy9tY](https://share.google/CoNkPi06b8lfXy9tY)"
+    body: "Siamo orgogliosi del lavoro che facciamo e delle relazioni che costruiamo con i nostri clienti. Se hai avuto un'esperienza positiva con noi, lasciaci una recensione su Google! La tua opinione è fondamentale per aiutarci a migliorare e a crescere. Puoi farlo facilmente cliccando sul nostro link qui sotto: [https://share.google/CoNkPi06b8lfXy9tY](https://share.google/CoNkPi06b8lfXy9tY) <br> <br> <br> <br> <br> <br> Vuoi passare in negozio? Vienici a trovare nelle nostre sedi! <br> Sede di Curtatone: Via Ferruccio Parri, 3/L, 46010 Curtatone MN  <br> Sede di Mantova: Via dei Mulini, 7, 46100 Mantova MN"
     section: about
 
   clients:
@@ -483,7 +483,7 @@ es: &DEFAULT_ES
 
   contact:
     title: "Contattaci"
-    text: "Scrivici su WhatsApp al numero xxxx oppure chiamaci al 123456789"
+    text: "Scrivici su WhatsApp o chiamaci al numero 3311366796 (sede di Curtatone) 3514900552 (sede di Mantova)"
     section: contact
     name: "Nome*"
     name-validation: "Per favore, inserisci il tuo nome."
@@ -621,7 +621,7 @@ de: &DEFAULT_DE
   about:
     title: "Dicono di noi"
     text: "Le vostre opinioni"
-    body: "Siamo orgogliosi del lavoro che facciamo e delle relazioni che costruiamo con i nostri clienti. Se hai avuto un'esperienza positiva con noi, lasciaci una recensione su Google! La tua opinione è fondamentale per aiutarci a migliorare e a crescere. Puoi farlo facilmente cliccando sul nostro link qui sotto: [https://share.google/CoNkPi06b8lfXy9tY](https://share.google/CoNkPi06b8lfXy9tY)"
+    body: "Siamo orgogliosi del lavoro che facciamo e delle relazioni che costruiamo con i nostri clienti. Se hai avuto un'esperienza positiva con noi, lasciaci una recensione su Google! La tua opinione è fondamentale per aiutarci a migliorare e a crescere. Puoi farlo facilmente cliccando sul nostro link qui sotto: [https://share.google/CoNkPi06b8lfXy9tY](https://share.google/CoNkPi06b8lfXy9tY) <br> <br> <br> <br> <br> <br> Vuoi passare in negozio? Vienici a trovare nelle nostre sedi! <br> Sede di Curtatone: Via Ferruccio Parri, 3/L, 46010 Curtatone MN  <br> Sede di Mantova: Via dei Mulini, 7, 46100 Mantova MN"
     section: about
 
   clients:
@@ -681,7 +681,7 @@ de: &DEFAULT_DE
 
   contact:
     title: "Contattaci"
-    text: "Scrivici su WhatsApp al numero xxxx oppure chiamaci al 123456789"
+    text: "Scrivici su WhatsApp o chiamaci al numero 3311366796 (sede di Curtatone) 3514900552 (sede di Mantova)"
     section: contact
     name: "Nome*"
     name-validation: "Per favore, inserisci il tuo nome."
