@@ -11,19 +11,19 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Servizi"
       section: services
-    - title: "Portfolio"
+    - title: "In evidenza"
       section: portfolio
-    - title: "About"
+    - title: "Dicono di noi"
       section: about
     - title: "Timeline"
       section: timeline
     - title: "Team"
       section: team
-    - title: "Contact"
+    - title: "Contatti"
       section: contact
-    - title: "Theme Source"
+    - title: ""
       url: https://github.com/raviriley/agency-jekyll-theme/
 
 en-001: #English (World)
@@ -237,19 +237,19 @@ en-ZW: #English (Zimbabwe)
 # -------
 es: &DEFAULT_ES
   nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Sobre Nosotros"
-      section: nosotros
-    - title: "Cronología"
-      section: cronologia
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
+    - title: "Servizi"
+      section: services
+    - title: "In evidenza"
+      section: portfolio
+    - title: "Dicono di noi"
+      section: about
+    - title: "Timeline"
+      section: timeline
+    - title: "Team"
+      section: team
+    - title: "Contatti"
+      section: contact
+    - title: ""
       url: https://github.com/raviriley/agency-jekyll-theme/
 
 es-419: #Spanish (Latin America and the Caribbean)
@@ -309,19 +309,19 @@ es-VE: #Spanish (Venezuela)
 # -----------------
 de: &DEFAULT_DE
   nav:
-    - title: "Leistungen"
-      section: Leistungen
-    - title: "Portfolio"
-      section: Portfolio
-    - title: "Über uns"
-      section: Ueber
-    - title: "Geschichte"
-      section: Geschichte
+    - title: "Servizi"
+      section: services
+    - title: "In evidenza"
+      section: portfolio
+    - title: "Dicono di noi"
+      section: about
+    - title: "Timeline"
+      section: timeline
     - title: "Team"
-      section: Team
-    - title: "Kontakt"
-      section: Kontakt
-    - title: "Quellcode des Themas"
+      section: team
+    - title: "Contatti"
+      section: contact
+    - title: ""
       url: https://github.com/raviriley/agency-jekyll-theme/
 
 de-AT: #German (Austria)
