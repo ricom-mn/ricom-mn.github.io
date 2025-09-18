@@ -1,19 +1,20 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
-
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: Offerte
+  subtitle: Promo imperdibili
+  thumbnail: assets/img/portfolio/offerte.jpg
+
+title: Scopri le nostre offerte
+subtitle: Promo sempre aggiornate per te
+image: assets/img/portfolio/offerte.jpg
+alt: Offerte e promozioni disponibili
+
 ---
+Approfitta delle nostre **offerte esclusive**:  
+che tu stia cercando un nuovo smartphone, un piano vantaggioso o un servizio su misura, abbiamo sempre la promo giusta per te!
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+🔹 Offerte aggiornate ogni mese  
+🔹 Sconti dedicati per nuovi clienti  
+🔹 Soluzioni personalizzate in negozio
 
-{:.list-inline}
-
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+**Passa a trovarci o contattaci per conoscere l'offerta più adatta alle tue esigenze!**
