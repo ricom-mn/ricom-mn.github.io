@@ -147,14 +147,8 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
       - url: http://facebook.com/ricomsrlmn
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/
-        icon: "fab fa-github"
       - url: https://www.instagram.com/ricom_srl/
         icon: "fab fa-instagram"
 
@@ -505,14 +499,8 @@ es: &DEFAULT_ES
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
       - url: http://facebook.com/ricomsrlmn
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/
-        icon: "fab fa-github"
       - url: https://www.instagram.com/ricom_srl/
         icon: "fab fa-instagram"
 
@@ -709,14 +697,8 @@ de: &DEFAULT_DE
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
       - url: http://facebook.com/ricomsrlmn
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/
-        icon: "fab fa-github"
       - url: https://www.instagram.com/ricom_srl/
         icon: "fab fa-instagram"
 
