@@ -6,7 +6,7 @@ caption:
 
 title: Attivazione Linea Fissa Iliad
 subtitle: Servizio di attivazione rapida e senza pensieri.
-image: assets/img/iliad.jpg
+image: assets/img/portfolio/iliad.jpg
 alt: Attivazione linea fissa Iliad
 
 ---
