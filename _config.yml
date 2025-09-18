@@ -18,7 +18,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : RICOM
-email      : info.ricom.mn.it@gmail.com #this is also the email contact forms will go to
+email      : info.ricom.mn@gmail.com #this is also the email contact forms will go to
 description: "Sito web di RICOM, Mantova e Curtatone, Italy"
 author     : Your Name
 # logo:     #optional, defaults to site title
