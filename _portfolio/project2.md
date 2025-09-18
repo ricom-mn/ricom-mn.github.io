@@ -1,19 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
-
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: Recensioni
+  subtitle: Cosa dicono di noi
+  thumbnail: assets/img/portfolio/recensioni.jpg
+
+title: Le tue opinioni contano!
+subtitle: Le recensioni sono il nostro pane quotidiano!
+image: assets/img/portfolio/recensioni.jpg
+alt: Recensioni dei clienti
+
 ---
+Le recensioni sono il nostro pane quotidiano!  
+Ci mettono sempre di buon umore 😊
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Se hai un minuto, raccontaci la tua esperienza con noi.  
+Ogni tua parola ci aiuta a crescere e migliorare.
 
-{:.list-inline}
-
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+[Lascia una recensione su Google](https://share.google/CoNkPi06b8lfXy9tY)
