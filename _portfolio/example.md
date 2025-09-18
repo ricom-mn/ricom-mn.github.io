@@ -1,22 +1,16 @@
 ---
-caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
-  
-#what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+caption:
+  title: Attivazione Iliad
+  subtitle: Linea Fissa
+  thumbnail: assets/img/iliad.jpg
+
+title: Attivazione Linea Fissa Iliad
+subtitle: Servizio di attivazione rapida e senza pensieri.
+image: assets/img/iliad.jpg
+alt: Attivazione linea fissa Iliad
 
 ---
-Use this area to describe your project. **Markdown** supported.
+Attiviamo per te la **linea fissa Iliad** in modo semplice, veloce e professionale.  
+Ci occupiamo di tutto: dalla richiesta iniziale fino al completamento dell’attivazione, con supporto completo in ogni fase.
 
-optional info list (delete if not using):
-
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
-
+Contattaci per maggiori informazioni o vieni a trovarci in negozio.
